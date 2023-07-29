@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/states-machine-react/static/css/main.3058cac5.css",
+    "main.js": "/states-machine-react/static/js/main.9722c745.js",
+    "static/js/787.1e9d8a6f.chunk.js": "/states-machine-react/static/js/787.1e9d8a6f.chunk.js",
+    "static/media/background-travel-2.jpg": "/states-machine-react/static/media/background-travel-2.1b3bc05ab3ab53a29ab2.jpg",
+    "index.html": "/states-machine-react/index.html",
+    "main.3058cac5.css.map": "/states-machine-react/static/css/main.3058cac5.css.map",
+    "main.9722c745.js.map": "/states-machine-react/static/js/main.9722c745.js.map",
+    "787.1e9d8a6f.chunk.js.map": "/states-machine-react/static/js/787.1e9d8a6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3058cac5.css",
+    "static/js/main.9722c745.js"
+  ]
+}
